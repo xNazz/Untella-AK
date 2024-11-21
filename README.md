@@ -1,10 +1,13 @@
-# Untella-ak
-**Features :**
-- Full serversided
-- /asuransikeliling (minute countdown before vehicle deletes)
+***Untella-AK***
+**Features:**
+- Full server-side implementation
+- /asuransikeliling (minute countdown for vehicle deletion)
 
-**Depedencies :**
+**Dependencies:**
 - ox_lib
 
-**example :** /asuransikeliling 5 (all vehicles will be deleted after 5 minute)<br />
-**preview :** https://streamable.com/viwlnp
+**Usage Example:**
+/asuransikeliling 5 - Deletes all unoccupied vehicles after a 5-minute countdown
+
+**Download:** https://github.com/xNazz/Untella-ak<br/>
+**Preview:** https://streamable.com/viwlnp
