@@ -9,5 +9,4 @@
 **Usage Example:**
 /asuransikeliling 5 - Deletes all unoccupied vehicles after a 5-minute countdown
 
-**Download:** https://github.com/xNazz/Untella-ak<br/>
 **Preview:** https://streamable.com/viwlnp
