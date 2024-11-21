@@ -6,5 +6,5 @@
 **Depedencies :**
 - ox_lib
 
-- example : /asuransikeliling 5 (all vehicles will be deleted after 5 minute)
-- preview : https://streamable.com/viwlnp
+**example :** /asuransikeliling 5 (all vehicles will be deleted after 5 minute)
+**preview :** https://streamable.com/viwlnp
